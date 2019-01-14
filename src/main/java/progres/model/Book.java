@@ -11,3 +11,5 @@ public class Book extends BaseEntity {
     private String authorName;
     private String authorSurname;
 }
+
+
